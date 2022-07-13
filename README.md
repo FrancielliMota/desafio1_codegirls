@@ -1,2 +1,2 @@
-# desafio1_codegirls
-Desafio de Projeto: Desenvolver meu primeiro repositório no GitHub.
+# Meu primeiro repositório no Git/GitHub.
+*Desafio de Projeto do Code Girls-DIO.*
